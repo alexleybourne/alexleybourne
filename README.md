@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=alexleybourne&show_icons=true&hide=["prs","issues"])
+![My github stats](https://github-readme-stats.vercel.app/api?username=alexleybourne&count_private=true&show_icons=true&hide=prs,issues,contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexleybourne&layout=compact)
 
 <!--
 **alexleybourne/alexleybourne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
